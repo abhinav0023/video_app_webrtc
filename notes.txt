@@ -1,0 +1,2 @@
+nodemon is now buit in to node itself.
+node -watch filemame.js --> this will work like nodemon 
